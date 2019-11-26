@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yaros/CLionProjects/SVector Fedchenko Yaroslav/SMatrix_tests.c
+src/SMatrix.h
+/home/yaros/CLionProjects/SVector Fedchenko Yaroslav/src/SMatrix.h
+
+/home/yaros/CLionProjects/SVector Fedchenko Yaroslav/src/SMatrix.c
+SMatrix.h
+/home/yaros/CLionProjects/SVector Fedchenko Yaroslav/src/SMatrix.h
+
+/home/yaros/CLionProjects/SVector Fedchenko Yaroslav/src/SMatrix.h
+stdio.h
+-
+malloc.h
+-
+math.h
+-
+
