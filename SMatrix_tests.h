@@ -1,5 +1,5 @@
 //
-// Created by yaros on 21.11.2019.
+// Created by Fedchenko Yaroslav on 21.11.2019.
 //
 
 #ifndef SVECTOR_FEDCHENKO_YAROSLAV_DMATRIX_TESTS_H
